@@ -1,0 +1,709 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Epinicia Carolina, or An essay upon the return of His sacred Majesty, Charles the Second. By S.W. of the Inner Temple.</title>
+            <author>S.W., of the Inner Temple.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96079</idno>
+            <idno type="STC">Wing W106</idno>
+            <idno type="STC">Thomason E1027_8</idno>
+            <idno type="STC">ESTC R203971</idno>
+            <idno type="EEBO-CITATION">99863723</idno>
+            <idno type="PROQUEST">99863723</idno>
+            <idno type="VID">115936</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96079)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115936)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 152:E1027[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Epinicia Carolina, or An essay upon the return of His sacred Majesty, Charles the Second. By S.W. of the Inner Temple.</title>
+                  <author>S.W., of the Inner Temple.</author>
+               </titleStmt>
+               <extent>[2], 19, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Robert Gibbs, at the Golden Ball in Chancery Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Annotation on Thomason copy: "June 7".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115936:1"/>
+            <pb facs="tcp:115936:1" rendition="simple:additions"/>
+            <p>Epinicia Carolina, OR AN ESSAY Upon the Return of His SACRED MAJESTY, Charles the Second.</p>
+            <p>By <hi>S. W.</hi> of the Inner Temple.</p>
+            <figure/>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Gibbs,</hi> at the <hi>Golden Ball</hi> in <hi>Chan<g ref="char:EOLhyphen"/>cery Lane.</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:115936:2"/>
+            <pb n="1" facs="tcp:115936:2"/>
+            <head>AN ESSAY, Upon the Happy Return of His SACRED MAJESTY, Charles the Second.</head>
+            <lg n="1">
+               <head>1.</head>
+               <l>
+                  <hi>HEe's come!—</hi>See there Elſe.—There again.</l>
+               <l>Hee's juſt now landed with his Train;</l>
+               <l>Juſt now hath changed for loyal ground, th' unfaithful Main.</l>
+               <l>
+                  <hi>Hee's come!—</hi>Heark how the forward Aire</l>
+               <l>Reſounds His <hi>Welcome</hi> to the Shoar,</l>
+               <l>Redoubling all the <hi>Eccho's</hi> ore.</l>
+               <l>When the unloaded Guns can do no more,</l>
+               <l>Volleys with <hi>thunder</hi> may compare;</l>
+               <l>Volleys that thunder far excel;</l>
+               <l>
+                  <pb n="2" facs="tcp:115936:3"/>
+For when rag'd Heav'n in ſuch a language ſpeaks,</l>
+               <l>
+                  <hi>With fiery tongues,</hi> &amp; ſilence through the darkneſs breaks.</l>
+               <l>(Clouds that are dark as <hi>night,</hi> or <hi>hell)</hi>
+               </l>
+               <l>Showr's to allay the flame</l>
+               <l>That juſt now came,</l>
+               <l>And unexpected fell</l>
+               <l>Poure down, the sky with ſtormes is dull,</l>
+               <l>Of tempeſts, and thick weather full;</l>
+               <l>Each clap is follow'd with its <hi>band</hi> of hail,</l>
+               <l>Squadrons that will prevail;</l>
+               <l>Above, engaging Armes appear,</l>
+               <l>Below the Earth doth groan to hear</l>
+               <l>The ſhock, and quakes at ſome ſad fate it ſees not, in the <hi>Rear.</hi>
+               </l>
+            </lg>
+            <lg n="2">
+               <pb n="3" facs="tcp:115936:3"/>
+               <head>(2)</head>
+               <l>Quite different is this Peal, this Noiſe,</l>
+               <l>Is but the <hi>repetition</hi> of our joyes.</l>
+               <l>Continued <hi>Acclamations</hi> from a louder voyce,</l>
+               <l>Cannons that ſo well imitate,</l>
+               <l>Encourage, not amate,</l>
+               <l>Tell us a moſt deſired <hi>calm</hi> is nigh,</l>
+               <l>And without help of following tempeſts clear the sky.</l>
+               <l>
+                  <hi>A calm</hi> great Prince, ſuch as none elſe could ſay</l>
+               <l>Beſide Yout Self, and ne're to late,</l>
+               <l>To a <hi>diſtracted</hi> and <hi>tumultuous State;</hi>
+               </l>
+               <l>To a divided Land,</l>
+               <l>That never could without ſuch help <hi>command,</hi>
+               </l>
+               <l>Or know till now what <hi>truly</hi> 'twas t' <hi>obey;</hi>
+               </l>
+               <l>
+                  <hi>A calm</hi> Your Name brings, and a certain bay:</l>
+               <l>Nor is't leſs welcome, cauſe ſo long defer'd,</l>
+               <l>That very Name hath rais'd the <hi>price,</hi>
+               </l>
+               <l>Encreas'd the weight, and made it twice)</l>
+               <l>The thing for what before't appear'd;</l>
+               <l>So <hi>Expectation</hi> almoſt gone,</l>
+               <l>Makes us too much eſteem a certain one!</l>
+               <l>And ev'n deſpairing to be free,</l>
+               <l>We can Your Self no other See,</l>
+               <l>Than one that hath procur'd us <hi>double liberty.</hi>
+               </l>
+            </lg>
+            <lg n="3">
+               <pb n="4" facs="tcp:115936:4"/>
+               <head>3.</head>
+               <l>And as i'th troubled <hi>deep</hi> in ſpight of hope,</l>
+               <l>When th' burdened Ship with thouſand billows toſt,</l>
+               <l>Is to it <hi>Self</hi> and <hi>Convoy</hi> loſt:</l>
+               <l>And Mariners i'th dark their Tackling grope,</l>
+               <l>Ready to be devour'd by every wave</l>
+               <l>Which <hi>threatens</hi> and <hi>prepares</hi> a grave,</l>
+               <l>If there appear one <hi>glimps</hi> of day,</l>
+               <l>And a faint thought the ſtorme may <hi>ſteal</hi> away,</l>
+               <l>Though at the greateſt diſtance ſet,</l>
+               <l>And ſcarce diſcerned yet,</l>
+               <l>
+                  <hi>Courage</hi> returns, and check's Deſpair,</l>
+               <l>Be it with loſs of half the <hi>Fare,</hi>
+               </l>
+               <l>Is buried in a Nobler Care.</l>
+               <l>Y' have done all this, a greater thing,</l>
+               <l>
+                  <hi>Deliverance</hi> giv'n, Heav'n could not bring,</l>
+               <l>By any means, but ſuch a <hi>King.</hi>
+               </l>
+               <l>Y' have don't, and with't return'd Our Light,</l>
+               <l>Almoſt forgotten through a <hi>twelve-years</hi> Night;</l>
+               <l>Diſpel'd Our fears, to th' Heaven brought</l>
+               <l>A <hi>prize</hi> ineſtimable, and unſought;</l>
+               <l>And beſide, what was Ours before,</l>
+               <l>Return'd <hi>Your Self,</hi> which makes ten thouſand <hi>prizes</hi> more.</l>
+            </lg>
+            <lg n="4">
+               <pb n="5" facs="tcp:115936:4"/>
+               <head>4.</head>
+               <l>Pardon, Great Name, if one ſo mean aſpire,</l>
+               <l>And to your <hi>Sun,</hi> expoſe his humbler <hi>fire;</hi>
+               </l>
+               <l>(Amongſt the many <hi>flames</hi> to riſe)</l>
+               <l>Not to encreaſe Your light</l>
+               <l>(Beyond expreſſion bright,</l>
+               <l>And never to be greater made,</l>
+               <l>By an <hi>additional</hi> and <hi>borrowed</hi> aide)</l>
+               <l>But to conſume his <hi>Sacrifice.</hi>
+               </l>
+               <l>'Tis true, You need not what ſuch things can do,</l>
+               <l>Nor can Your <hi>praiſe</hi> by ſuch loe <hi>praiſes</hi> grow,</l>
+               <l>It being not You that <hi>want,</hi> but we that <hi>owe;</hi>
+               </l>
+               <l>We <hi>ow't,</hi> and if that Theam wont give</l>
+               <l>To an officious duty, and return,</l>
+               <l>'Tis our ambition in the <hi>common flame</hi> to burn:</l>
+               <l>Nor will we that ſurvive,</l>
+               <l>If <hi>Salamander</hi> like i'th flames we cannot live;</l>
+               <l>
+                  <hi>We</hi> are ennobled by this ſervice done,</l>
+               <l>
+                  <hi>To our ſelves,</hi> and not to Thee,</l>
+               <l>Making it harder to be known,</l>
+               <l>Whether more <hi>proud</hi> or <hi>dutiful</hi> we be:</l>
+               <l>If we refuſe, Thou'rt ſtill the ſame,</l>
+               <l>Great by thy birth, and greater by thy Fame,</l>
+               <l>None by the <hi>choice</hi> of <hi>Heaven</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>s</hi> more freely came.</l>
+            </lg>
+            <lg n="5">
+               <pb n="6" facs="tcp:115936:5"/>
+               <head>(5)</head>
+               <l>Should we refuſe, 'twere but to be</l>
+               <l>Fond <hi>Heralds</hi> of our ſlavery,</l>
+               <l>And how <hi>unwillingly</hi> we are made free,</l>
+               <l>We ſhould bely our intereſt, and give way</l>
+               <l>To others to prevent us in our joyes:</l>
+               <l>And the ſame <hi>Acclamations</hi> pay</l>
+               <l>Before us, through a falſe delay,</l>
+               <l>As equally concerned in our <hi>voyce.</hi>
+               </l>
+               <l>No! No! we ne're will yield,</l>
+               <l>'Tis too too much, 't hath been defer'd ſo long;</l>
+               <l>Nor will we make anothers <hi>title</hi> ſtrong,</l>
+               <l>By entring <hi>laſt,</hi> or <hi>never</hi> in the Field;</l>
+               <l>Though our Engagement only can deſcry</l>
+               <l>Not what we <hi>would,</hi> but what we <hi>can't deny.</hi>
+               </l>
+               <l>Our pens ſhall do their duty firſt,</l>
+               <l>Though hitherto to <hi>ſilence</hi> curſt,</l>
+               <l>Or <hi>Tyranny,</hi> of Theams the worſt;</l>
+               <l>Not by <hi>recanting,</hi> for thus how to ſin,</l>
+               <l>Like others we ne're knew,</l>
+               <l>Who muſt their pardon ſue,</l>
+               <l>Before they can with <hi>confidence</hi> again begin,</l>
+               <l>Or <hi>uninfected</hi> reach the KING.</l>
+               <l>'Tis but a poor diſguiſe to ſay 'twas done,</l>
+               <l>with th' multitude to th' <hi>riſing Sun,</hi>
+               </l>
+               <l>At leaſt to him that went for one,</l>
+               <l>
+                  <hi>Meteors</hi> may be admir'd till <hi>faln</hi> and <hi>gone.</hi>
+               </l>
+               <l>If <hi>Perſian</hi> like we <hi>ſuperſtitious</hi> are,</l>
+               <l>Thou art the <hi>Sun,</hi> the <hi>Tyrant,</hi> but a <hi>blazing ſtar.</hi>
+               </l>
+            </lg>
+            <lg n="6">
+               <pb n="7" facs="tcp:115936:5"/>
+               <head>6.</head>
+               <l>You are alone a <hi>Sun,</hi> Your very Name</l>
+               <l>Gives a new life and birth to every thing,</l>
+               <l>Gives <hi>a new</hi> and <hi>perpetual ſpring,</hi>
+               </l>
+               <l>Like that above in <hi>Qualities</hi> the ſame;</l>
+               <l>For as to that we all diſtinctions owe,</l>
+               <l>Of times and ſeaſons, night and day,</l>
+               <l>By You that very thing we know,</l>
+               <l>And go more <hi>ſatisfied away.</hi>
+               </l>
+               <l>You are the <hi>greater Sun</hi> o'th two.</l>
+               <l>For as i'th objects that doth ſhew</l>
+               <l>The pleaſures which they have,</l>
+               <l>To take the greedy ſight,</l>
+               <l>Are from <hi>themſelves,</hi> not from his <hi>light;</hi>
+               </l>
+               <l>And don't by his addition beauteous grow:</l>
+               <l>But were before thus <hi>beautiful,</hi> and crave</l>
+               <l>Aſſiſtance from his beams to <hi>tell,</hi> not <hi>make</hi> 'um ſo.</l>
+               <l>You at the ſame time <hi>light</hi> and <hi>object</hi> bring,</l>
+               <l>What is, and how 'tis to be ſeen,</l>
+               <l>The <hi>medium,</hi> and the very thing,</l>
+               <l>Without the caution of <hi>deſign</hi> between:</l>
+               <l>You make the <hi>Proſpect,</hi> and that done,</l>
+               <l>Are what we ſee it by the <hi>Sun:</hi>
+               </l>
+               <l>So that to ſay you are like the Sun, won't do,</l>
+               <l>'Tis mean, You are not like the <hi>Sun, the Sun's like You.</hi>
+               </l>
+            </lg>
+            <lg n="7">
+               <pb n="8" facs="tcp:115936:6"/>
+               <head>(7)</head>
+               <l>Since then ſo great a <hi>miracle</hi> You are,</l>
+               <l>That nothing can reſemble or come near,</l>
+               <l>We other <hi>Similes</hi> ſhall ſpare,</l>
+               <l>And to <hi>Your Self</hi> alone <hi>Your Self</hi> compare:</l>
+               <l>And as the likeneſs of the Painters draught</l>
+               <l>Is to be judg'd no other way,</l>
+               <l>Then by the Pattern which before him lay,</l>
+               <l>And matter for his Penſil brought;</l>
+               <l>Then by the life, how far the Features be</l>
+               <l>The very ſame, where <hi>hard,</hi> and where <hi>more free</hi>
+               </l>
+               <l>We have it all in You; one <hi>Scet'h</hi> hath all,</l>
+               <l>
+                  <hi>Your Self</hi> the <hi>Copy</hi> and <hi>Original;</hi>
+               </l>
+               <l>So like which either is that none dare ſay:</l>
+               <l>But as two <hi>poſtures</hi> by the ſelf-ſame face</l>
+               <l>May have a different <hi>Aire,</hi> and ſev'ral <hi>Grace</hi>
+               </l>
+               <l>From the reflection of the light and place,</l>
+               <l>When with a languiſhing Aſpect the One,</l>
+               <l>As ſome ſad Mourner beareth down;</l>
+               <l>The Other with a livelier Eye,</l>
+               <l>Intends a Crown and Majeſty<hi>:</hi>
+               </l>
+               <l>Both are unlike to other, as the hand</l>
+               <l>Of <hi>Artiſt,</hi> and the <hi>paſſions</hi> can command.</l>
+               <l>You have a different <hi>Meene</hi> as <hi>Prince</hi>
+               </l>
+               <l>And <hi>Exile,</hi> what You <hi>were</hi> before,</l>
+               <l>And what <hi>Y' are</hi> ſince;</l>
+               <l>Yet <hi>like</hi> Your Self in both ſo much, that nothing can be more.</l>
+            </lg>
+            <lg n="8">
+               <pb n="9" facs="tcp:115936:6"/>
+               <head>8.</head>
+               <l>A perfect <hi>wonder</hi> in Your ſeveral State,</l>
+               <l>Whether we count Your <hi>Croſs,</hi> or <hi>better</hi> Fate,</l>
+               <l>Th' adventures that have run</l>
+               <l>From th' <hi>Cradle</hi> to the <hi>Throne.</hi>
+               </l>
+               <l>If Princes have their <hi>Infancy,</hi>
+               </l>
+               <l>And can be <hi>born,</hi> though they can't <hi>dye;</hi>
+               </l>
+               <l>When for <hi>twelve years</hi> Th' haſt known,</l>
+               <l>VVhat 'tis to be a <hi>KING,</hi> and to be <hi>None;</hi>
+               </l>
+               <l>When <hi>Majeſty</hi> diſguis'd did lie</l>
+               <l>I'th <hi>Viſord</hi> of a private one;</l>
+               <l>The ſafeſt and the beſt retreit</l>
+               <l>For Him that's <hi>deſtin'd</hi> to be great.</l>
+               <l>Nay in a lower <hi>Sphere</hi> Thou ſeem'dſt to move,</l>
+               <l>As if degrading's not enough</l>
+               <l>Thy <hi>patience,</hi> and thy <hi>heart</hi> to prove,</l>
+               <l>
+                  <hi>A baniſhment,</hi> ſhall lead the way</l>
+               <l>To an <hi>unconſtant</hi> and <hi>unſetled</hi> ſtay;</l>
+               <l>To ſave the life that elſe had been a <hi>prey:</hi>
+               </l>
+               <l>
+                  <hi>As if 'twas equal fault to, Be</hi>
+               </l>
+               <l>
+                  <hi>As hold the reins of Soveraignty.</hi>
+               </l>
+               <l>Under ſo great an heap our fire was laid,</l>
+               <l>And part o'th <hi>common</hi> rubbiſh made,</l>
+               <l>Almoſt unminded, and quite ſpent,</l>
+               <l>Till by the <hi>ſmoak</hi> it upward ſent,</l>
+               <l>We knew it <hi>liv'd,</hi> and on a gentle turn,</l>
+               <l>Could reaſſume its former flames, <hi>and burn.</hi>
+               </l>
+            </lg>
+            <lg n="9">
+               <pb n="10" facs="tcp:115936:7"/>
+               <head>9.</head>
+               <l>This we experienc't when thy forward <hi>zeal,</hi>
+               </l>
+               <l>Made Thee to us at <hi>Worceſter</hi> fight appeal,</l>
+               <l>More for thy <hi>Countries</hi> good, than for thy own;</l>
+               <l>Thy <hi>Countrey</hi> which <hi>inſenſible</hi> was grown,</l>
+               <l>And by continu'd <hi>ſlavery,</hi>
+               </l>
+               <l>Thought it a <hi>burden</hi> to be free;</l>
+               <l>We ſaw there, (and who could not ſee?)</l>
+               <l>The little price You put on <hi>Majeſty,</hi>
+               </l>
+               <l>When undiſtinguiſh't with the Rout,</l>
+               <l>Had not Your actions mark't You out,</l>
+               <l>You as ſome under-Captain <hi>wheel'd</hi> about,</l>
+               <l>
+                  <hi>Charg'd</hi> up, <hi>Retreited, Lead the</hi> Van,</l>
+               <l>
+                  <hi>Fac't</hi> the Cromwellians like a private man;</l>
+               <l>And though in You that time there lay</l>
+               <l>Concenter'd <hi>Happineſs</hi> and <hi>Peace,</hi>
+               </l>
+               <l>Our future <hi>joy</hi> and preſent <hi>eaſe,</hi>
+               </l>
+               <l>They unregarded were that day,</l>
+               <l>And as <hi>rich nothings</hi> put away<hi>:</hi>
+               </l>
+               <l>Breaking firſt through the Armed Rancks,</l>
+               <l>Now on the <hi>Front,</hi> then in the <hi>Rear;</hi>
+               </l>
+               <l>Upon the guarded, and well-bodied <hi>Flancks,</hi>
+               </l>
+               <l>You <hi>over-ran</hi> all, ere You could be judged near.</l>
+            </lg>
+            <lg n="10">
+               <pb n="11" facs="tcp:115936:7"/>
+               <head>10.</head>
+               <l>You were too prodigal of life and blood,</l>
+               <l>When ſcarce to be withſtood,</l>
+               <l>You'd <hi>Publique Victime</hi> for proud Rebels dye;</l>
+               <l>Would ſcarce prevail'd with be to live,</l>
+               <l>And wait a better deſtiny.</l>
+               <l>"So much 'twas not to get the victory,</l>
+               <l>"To be ore-powr'd, and yet ſurvive!</l>
+               <l>Though no leſs by't was thy renown,</l>
+               <l>'Tis equal to <hi>deſerve,</hi> and <hi>wear</hi> a Crown<hi>!</hi>
+               </l>
+               <l>You did Your ſhare, and more,</l>
+               <l>Than any Prince ere did before,</l>
+               <l>Only Fates would with <hi>triumph</hi> you reſtore:</l>
+               <l>Fates that for better times thy fortune knew,</l>
+               <l>Unwilling were that Bout thou ſhouldſt ſubdue,</l>
+               <l>And from the Conqueſt <hi>CHARLES</hi> with-drew;</l>
+               <l>So that 'twas they were <hi>routed,</hi> and not You:</l>
+               <l>Who by your happy <hi>'ſcape</hi> away,</l>
+               <l>And <hi>Parthian like in flight,</hi> didſt get the day;</l>
+               <l>Making the <hi>Oaken</hi> Garland far exceed the <hi>Bay.</hi>
+               </l>
+            </lg>
+            <lg n="11">
+               <pb n="12" facs="tcp:115936:8"/>
+               <head>11.</head>
+               <l>Had You that time <hi>o'recome</hi> in fight,</l>
+               <l>That very Name had ſpoil'd the ſhew,</l>
+               <l>'Twas more conſulted in Your <hi>flight;</hi>
+               </l>
+               <l>The Notion of a Countries <hi>overthrow,</hi>
+               </l>
+               <l>Leſs pleaſure, greater hurt will do.</l>
+               <l>Blood that from ſtreams like theſe doth ſpout,</l>
+               <l>Encreaſeth not the <hi>Royal Dy,</hi> but rots it out;</l>
+               <l>The <hi>purple</hi> loſeth by the ſtain,</l>
+               <l>If poſſible to get it up again.</l>
+               <l>In civil broyles the <hi>Lawrel</hi> won,</l>
+               <l>Is but a <hi>pale</hi> and <hi>withered</hi> one;</l>
+               <l>Hath more of <hi>Cypreſs</hi> in't, and <hi>Thorn,</hi>
+               </l>
+               <l>So purchaſed and worn.</l>
+               <l>
+                  <hi>Caeſar</hi> in <hi>triumph,</hi> when he led</l>
+               <l>Great <hi>Pompy's</hi> children, loſt more praiſe,</l>
+               <l>Then's <hi>Victory</hi> did Trophies raiſe;</l>
+               <l>His Crown did not <hi>defend,</hi> but more <hi>expoſe</hi> his head.</l>
+            </lg>
+            <lg n="12">
+               <pb n="13" facs="tcp:115936:8"/>
+               <head>12.</head>
+               <l>But ſhould we every Scene preſent,</l>
+               <l>Deliver every <hi>Act</hi> of thine,</l>
+               <l>'Twere to exhauſt a <hi>Mine;</hi>
+               </l>
+               <l>And not a <hi>ſcanty</hi> and <hi>conſumed</hi> Mint<hi>:</hi>
+               </l>
+               <l>Full of new <hi>wonders</hi> every houre was ſeen</l>
+               <l>The leaſt, that nothing <hi>
+                     <g ref="char:V">Ʋ</g>ulgar</hi> came between;</l>
+               <l>An houre can ſubject to a Volume give,</l>
+               <l>
+                  <hi>A</hi> day to an whole Hiſtory;</l>
+               <l>
+                  <hi>A</hi> month and year can ne're ſubſiſt and live,</l>
+               <l>But with their own weight preſt, muſt ſink and dye.</l>
+               <l>And as the light that in a mean,</l>
+               <l>Renders the <hi>Object</hi> better ſeen:</l>
+               <l>If it exceed its wonted <hi>ray,</hi>
+               </l>
+               <l>Takes what before it gave, away.</l>
+               <l>
+                  <hi>Y'</hi> have done too much, all words out-done,</l>
+               <l>
+                  <hi>Your Self,</hi> and the moſt laviſh tongue;</l>
+               <l>By giving too great a Theam have given none,</l>
+               <l>Y' have done beyond all gone before;</l>
+               <l>Had you done <hi>leſs</hi> great Prince, we had done <hi>more.</hi>
+               </l>
+            </lg>
+            <lg n="13">
+               <pb n="14" facs="tcp:115936:9"/>
+               <head>13.</head>
+               <l>Yet though we can't expreſs, we may admire</l>
+               <l>Thy condeſcenſion, when thou didſt retire,</l>
+               <l>And in a Straiter orb confine,</l>
+               <l>Luſtre would elſe break out and ſhine.</l>
+               <l>Yet though envelopt in a cloud, even there,</l>
+               <l>It all enlightned that were near:</l>
+               <l>
+                  <hi>A</hi> cloud may hide, not chaſe the Day,</l>
+               <l>
+                  <hi>Obſcure the Sun,</hi> not tak't away.</l>
+               <l>The Suns the ſame, when it <hi>don't,</hi> as when it <hi>doth appear;</hi>
+               </l>
+               <l>'Twas ill for us when private walls did feel</l>
+               <l>Your power, when laying by the warlike ſteel,</l>
+               <l>You all regrets, but ours could heal;</l>
+               <l>Reſolved for us, Your <hi>Exile</hi> to forgo,</l>
+               <l>And ſomething <hi>more</hi> than <hi>Exile</hi> know</l>
+               <l>To ſuffer <hi>double</hi> baniſhment.</l>
+               <l>Firſt, from Your Country, than the place</l>
+               <l>Where You had <hi>covert</hi> got i'th <hi>Chaſe,</hi>
+               </l>
+               <l>And by a Fate more grievous went:</l>
+               <l>"So great a power had Uſurpation gain'd,</l>
+               <l>"That by leſs crimes it could not be maintaind;</l>
+               <l>
+                  <hi>"A</hi> little ſpot appears till the whole Fleece is ſtain'd.</l>
+            </lg>
+            <lg n="14">
+               <pb n="15" facs="tcp:115936:9"/>
+               <head>14.</head>
+               <l>Mean while we languiſh't with the rotting pain</l>
+               <l>Of Forreign <hi>hatred</hi> and <hi>diſdain;</hi>
+               </l>
+               <l>'Twas death or priſon to return again;</l>
+               <l>Thoſe whom the <hi>publick ruine</hi> forc't to ſhore,</l>
+               <l>And for ſome ſhelter fly</l>
+               <l>To other Lands, and unknown lie;</l>
+               <l>If but their names were heard,</l>
+               <l>They were as an <hi>infection</hi> fear'd,</l>
+               <l>To be an <hi>Engliſh man</hi> was <hi>plague</hi> enough.</l>
+               <l>At home we knew no other peace,</l>
+               <l>But a continued War; no health, but a diſeaſe:</l>
+               <l>And ſince we could no better be</l>
+               <l>By our Phyſitians myſtery;</l>
+               <l>Always to be ſo, and <hi>no worſe,</hi> was all our eaſe.</l>
+               <l>So that if expectation gone,</l>
+               <l>And buried with thee in oblivion,</l>
+               <l>Some for the baſe <hi>
+                     <g ref="char:V">Ʋ</g>ſurper</hi> pray'd,</l>
+               <l>And in their forc't <hi>Devotions</hi> ſtray'd;</l>
+               <l>'Twas out of Dread, not Duty paid:</l>
+               <l>So much of a <hi>worſe power</hi> we were afraid!</l>
+               <l>The ſame was for Sicilian Tyrant done,</l>
+               <l>Not out of <hi>love</hi> to him, but fear of a more <hi>cruel</hi> one.</l>
+            </lg>
+            <lg n="15">
+               <pb n="16" facs="tcp:115936:10"/>
+               <head>15.</head>
+               <l>And as the Romans in their <hi>ſuperſtitious</hi> care</l>
+               <l>To ſeveral Deities did <hi>Temples</hi> rear,</l>
+               <l>Ridiculous to all but them that worſhip't there:</l>
+               <l>When they made <hi>Feavers</hi> Fanes reſound,</l>
+               <l>To <hi>Paleneſs</hi> Altars Crown'd;</l>
+               <l>And <hi>Tempest</hi> that whole Fleets had drown'd:</l>
+               <l>'Twas not that from their influence</l>
+               <l>They good expected, but to drive 'um thence.</l>
+               <l>If we this thing for others did, then you,</l>
+               <l>'Twas not becauſe we reckon'd it their <hi>due:</hi>
+               </l>
+               <l>But we our ſelves <hi>no other</hi> thing could do,</l>
+               <l>Our worſhip was <hi>conſtrain'd;</hi> conſtraint did bring</l>
+               <l>Almoſt a <hi>Fate</hi> our Soveraign to deny,</l>
+               <l>Whil'ſt every Pulpit ſtill did ring</l>
+               <l>With this impoſſibility,</l>
+               <l>At once to <hi>ſerve</hi> God, and <hi>pray</hi> for the <hi>KING;</hi>
+               </l>
+               <l>'Tis eaſie now, and unperplext;</l>
+               <l>Without a <hi>Comment</hi> we can read the Text;</l>
+               <l>And the moſt partial man muſt ſay,</l>
+               <l>What 'ere 'twas heretofore, 'tis <hi>treaſon</hi> now not to <hi>obey.</hi>
+               </l>
+            </lg>
+            <lg n="16">
+               <pb n="17" facs="tcp:115936:10"/>
+               <head>16.</head>
+               <l>Till you return'd, the thought of joy</l>
+               <l>Was baniſh't from theſe ſad retreits;</l>
+               <l>And the few fires we had prov'd but <hi>unnatural</hi> heats,</l>
+               <l>Ne're throughly <hi>warm'd,</hi> but forc'd <hi>colder</hi> ſweats,</l>
+               <l>And with their <hi>clammineſs</hi> did more annoy.</l>
+               <l>Our fires were like thoſe which from <hi>Aetna</hi> riſe,</l>
+               <l>Ne're ſeen, but after ſome ſtrange <hi>Prodigies,</hi>
+               </l>
+               <l>Flames that don't <hi>lighten,</hi> but <hi>obſcure</hi> the Skies.</l>
+               <l>Yours have a greater power, <hi>reſtore</hi> the day;</l>
+               <l>And when 'tis ſunk, and loſt in a decay,</l>
+               <l>
+                  <hi>Renue</hi> it with a brighter ray.</l>
+               <l>The <hi>Iſlands</hi> one continued fire,</l>
+               <l>Is terrible to all that ſee it round;</l>
+               <l>And thoſe that know the reaſon and the ground,</l>
+               <l>O'recome <hi>with heat,</hi> already ev'n expire:</l>
+               <l>Saylors I fear that paſs by this way 'l miſtake,</l>
+               <l>And a new <hi>Countrey</hi> in their <hi>Sea Chards</hi> make;</l>
+               <l>For as towards us they forward ſteer,</l>
+               <l>And with the Compaſs round us Veer,</l>
+               <l>They ſcarce know whether Pole they'r near,</l>
+               <l>Like a new <hi>Terr' del fogo,</hi> we ſo much appear.</l>
+            </lg>
+            <lg n="17">
+               <pb n="18" facs="tcp:115936:11"/>
+               <head>17.</head>
+               <l>We're truly now the <hi>Happy Iſle,</hi>
+               </l>
+               <l>Beyond all elſe on which the Sun doth ſmile:</l>
+               <l>But you are He hath made us ſo,</l>
+               <l>This happineſs could from our ſelves ne're flow;</l>
+               <l>Or any thing that we could do;</l>
+               <l>You are the <hi>gift,</hi> and <hi>giver</hi> too.</l>
+               <l>'Tis true, Thou might'ſt have us'd ſome other hand,</l>
+               <l>That might have laid it as a juſt command;</l>
+               <l>The <hi>Spaniſh</hi> and the <hi>German</hi> aid,</l>
+               <l>That to ſuch plunder willingly had come,</l>
+               <l>And with the ſame facility o're-come,</l>
+               <l>And made us dearly for refuſal paid.</l>
+               <l>Thou mightſt have done this, ſomething more,</l>
+               <l>Made <hi>blood and wounds</hi> thy right reſtore;</l>
+               <l>But reſolute to ſtay</l>
+               <l>Till ſomething greater made the way;</l>
+               <l>Till the whole Land ſhould ſee,</l>
+               <l>Not thou of them, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> they'd <hi>need</hi> of thee:</l>
+               <l>Thou more then any Prince haſt done,</l>
+               <l>Com'ſt by a double <hi>title</hi> to the <hi>Throne;</hi>
+               </l>
+               <l>The choice thy Peoples is, the right thy own.</l>
+            </lg>
+            <lg n="18">
+               <pb n="19" facs="tcp:115936:11"/>
+               <head>18.</head>
+               <l>And ſince th' art come, may'ſt thou ſtill finde</l>
+               <l>Thoſe pleaſures ſuch a <hi>welcome</hi> brings:</l>
+               <l>Where <hi>Loyalty</hi> and <hi>Dutie's</hi> joyn'd</l>
+               <l>
+                  <hi>To ſerve</hi> and <hi>own</hi> the beſt of <hi>KINGS!</hi>
+               </l>
+               <l>May with thy Reign, thy happineſs increaſe,</l>
+               <l>And ne're know what 'tis to grow <hi>leſs!</hi>
+               </l>
+               <l>Or if <hi>Ecclips</hi> it ſuffers with the Sun,</l>
+               <l>Let it like that before hand known,</l>
+               <l>Not be a <hi>total,</hi> or a <hi>ſudden</hi> one;</l>
+               <l>But ſuch as when 'tis paſt and gone,</l>
+               <l>May make you re-aſſume this light,</l>
+               <l>Thy priſtine beams, and be more bright:</l>
+               <l>Make the whole world thy rayes adore,</l>
+               <l>Obſcuring that ſmall ſtar, that thee obſcur'd before.</l>
+               <l>May'ſt thou be like thy Self, none <hi>equal</hi> know,</l>
+               <l>To <hi>heaven</hi> alone thy <hi>Scepter</hi> owe!</l>
+               <l>"To be within <hi>compariſon</hi> is to be low.</l>
+               <l>
+                  <hi>MONCK</hi> the mean time (while to the <hi>Sky</hi>
+               </l>
+               <l>Thy Name is mounted by <hi>wing'd</hi> victory,</l>
+               <l>That doth in Ambuſh for that honour lie)</l>
+               <l>I'th <hi>Sky</hi> ſhall alſo have a <hi>Memory,</hi>
+               </l>
+               <l>And by ſome brighter <hi>Conſtellation</hi> known,</l>
+               <l>Attend thy <hi>Grandure,</hi> and increaſe his own:</l>
+               <l>So w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e <hi>Your Self</hi> we muſt to <hi>CHARLES</hi> his <hi>Wain</hi> refer,</l>
+               <l>
+                  <hi>MONCK</hi> with another title ſhall be call'd the <hi>Waggoner.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
